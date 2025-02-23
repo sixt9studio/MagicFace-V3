@@ -1,0 +1,14 @@
+accelerate
+diffusers
+peft
+insightface==0.7.3
+sentencepiece
+spaces
+torch
+transformers
+xformers
+git+https://github.com/tencent-ailab/IP-Adapter.git
+einops
+onnxruntime-gpu
+opencv-python
+safetensors
