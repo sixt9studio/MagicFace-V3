@@ -6,7 +6,7 @@ sentencepiece
 spaces
 torch
 transformers
-xformers
+gradio
 git+https://github.com/tencent-ailab/IP-Adapter.git
 einops
 onnxruntime-gpu
